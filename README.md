@@ -8,6 +8,10 @@ The objective is to automatically recognize and categorize opinions expressed in
 
 Sentiment analysis helps data analysts within large enterprises gauge public opinion, conduct nuanced market research, monitor brand and product reputation, and understand customer experiences. 
 
+# Youtube-Text-Data-Analysis
+
+Google Drive for Raw Data - https://drive.google.com/drive/folders/1NMUEqiZ6W6BjLooMiDCQln4VfL2AzB9M?usp=sharing
+
 ## Business Problem Statements
 
 Observations on the following are made:
